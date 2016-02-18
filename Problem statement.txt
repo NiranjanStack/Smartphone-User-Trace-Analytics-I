@@ -1,0 +1,3 @@
+Problem Statement:
+
+Smartphone and tablets are the most widely used electronic devices and they carry personal and important information. The types of authentication is a single entry security which either pattern match or a numeric or alpha-numeric password protection. Such entry-point based methods dominate the authentication schemes today, they have flaws from both usability and security perspectives as once the security is breached then any unauthorized user can misuse the device. I have analyzed some sets of patters of various users that depict how each and every user access the touchscreen smartphones and different applications. 
