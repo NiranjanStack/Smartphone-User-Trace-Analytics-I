@@ -1,0 +1,30 @@
+
+user id
+doc id
+phone orientation
+change of finger orientation
+stroke time
+stroke duration
+start x
+start y
+stop x
+stop y
+length of trajectory
+ratio end-to-end dist
+length of trajectory
+average velocity
+median acceleration
+mid-stroke pressure
+mid-stroke area covered
+mid-stroke finger orientation
+direct end-to-end distance (displacement)
+mean resultant lenght
+up/down/left/right flag
+direction of end-to-end line
+phone id
+pairwise velocity
+pairwise acc
+median velocity
+deviation from end-to-end line
+average direction
+
